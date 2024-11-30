@@ -1,0 +1,23 @@
+.movie-img{
+    width: 100%;
+    border-radius: 10px;
+    height: 300px;
+}
+
+.ReviewMovie{
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+.ReviewMovie p{
+    margin: 0;
+}
+.MovieDetails{
+
+    text-align: center;
+}
+/* *{
+
+} */

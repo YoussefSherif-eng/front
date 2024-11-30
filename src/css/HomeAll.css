@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.imge{
+    position: absolute;
+    height: 95vh;
+    width: 40%;
+    top: 70px;
+    margin-left: 50px;
+}
+body{
+    background: linear-gradient(#ffffff ,#bad0d0);
+    height: 117.5vh;
+    font-family: system-ui ;
+    margin-block-end: 9%;
+}
+h2{
+    justify-content: right;
+    display: flex;
+    margin-right: 240px;
+    margin-top: 90px;
+    padding-top: 70px;
+    text-transform: uppercase;
+    font-family: Century Gothic;
+}
+.pra{ 
+    margin-left: 700px;
+    margin-top: 40PX;
+    font-size: 17px;
+    justify-content: right;
+}

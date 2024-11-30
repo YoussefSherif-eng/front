@@ -1,0 +1,13 @@
+.ReviewMovie{
+    border-radius: 5px;
+    border: 2px solid #ddd;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+.ReviewMovie p{
+    margin: 0;
+}
+/* *{
+    
+} */
